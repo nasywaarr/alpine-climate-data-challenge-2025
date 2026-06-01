@@ -1,4 +1,19 @@
-# Alpine Climate Model — Alpine Climate Data Challenge 2025
+# 🏔️ Alpine Climate Data Challenge 2025
+
+> **Timeline:** 22 Feb – 3 Mar (8 days)  
+> **Focus area:** Susa Valley & Maurienne Valley, Western Alps (Italy × France border)  
+> **Goal:** Use open data to build predictive climate models & novel visualisations, with a view toward the **2030 Winter Olympics**
+
+---
+
+## 🗂️ Challenge Structure
+
+| Track | Platform | Task |
+|-------|----------|------|
+| Data Processing & Model Development | **SoBigData** | Load notebooks, activate models, train/validate |
+| Visualisation & Prototype | **Foundry (Palantir)** | Interactive dashboards, solution-building |
+
+**AIP = Foundry + GenAI**
 
 A physically-based climate modeling framework developed during the
 [Alpine Climate Data Challenge](https://journal.opendataplayground.com/alpine-climate-data-challenge-en/),
@@ -92,7 +107,6 @@ optimal_parameters = main_calibration_workflow(
 | **Technical Partners** | Palantir, SoBigData, Fourth Age |
 | **Duration** | Feb 22 – Mar 3, 2025 (8-day hackathon) |
 | **Final Pitch** | March 12, 2025 · TELT HQ, Turin, Italy |
-| **Result** | Top 5 Finalist out of all submissions |
 
 ## Acknowledgments
 
